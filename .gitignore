@@ -1,0 +1,21 @@
+# PyTorch checkpoints / Weights (Exceeded GitHub 100MB limit)
+*.pth
+*.pt
+*.ckpt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IPython Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Data directories (Raw data should not be committed to GitHub)
+data/
+datasets/
